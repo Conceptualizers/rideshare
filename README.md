@@ -32,5 +32,6 @@ Event coordinators will create and manage events on the web app while the mobile
 
 ## Timeline
 - Spring Quarter - Backend, Database, Web App  
-	- 
+	- April - Brush up on web dev, learn node, express, mongo
+	- May - Build backend and web frontend 
 - Fall Quarter - Mobile App (React Native)
