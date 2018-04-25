@@ -1,6 +1,9 @@
 # C.A.R. (Conceptualize a Ride)
 ## Project members
-- [Sean Nam (PM)](https://github.com/seannam)
+### Project Lead
+- [Sean Nam](https://github.com/seannam)
+
+### Developers
 - [Benson Budiman](https://github.com/blbudima)
 - [Wesley Chen](https://github.com/wes-chen)
 - [Victor Luong](https://github.com/vluong4946)
@@ -12,15 +15,13 @@ Event coordinators will create and manage events on the web app while the mobile
 
 ## Technical Specs
 - Stack
-	- node.js
-	- express
-	- mongodb
-	- React Native
+	- MERN for web (MongoDB, Express, React, Node.js)
+	- React Native for mobile (iOS & Android)
 - Source Control: git
 - Dependencies (APIs, Data, Etc)
 	- Need user location
 - Hosting/Deployment
-	- Heroku or AWS
+	- Heroku
 
 ## Project Specs
 ### [User Stories](userstories.md)
@@ -29,9 +30,18 @@ Event coordinators will create and manage events on the web app while the mobile
 
 ## Challenges
 - Lots to learn - node, mongodb, React Native
+- Minimal web dev experience
+- No mobile or React Native experience
 
 ## Timeline
 - Spring Quarter - Backend, Database, Web App  
 	- April - Brush up on web dev, learn node, express, mongo
 	- May - Build backend and web frontend 
 - Fall Quarter - Mobile App (React Native)
+	- October - Learn React & React Native, Build first version  
+	- Novemember - Connect to backend, improve user interface
+	- December - Clean up UI, improve UX, & testing
+
+## Progress
+- Week 3 - 4/18-4/25: Agile & HTML, CSS, JS
+- Week 4 - 4/25-5/03 : Node.js & Express
