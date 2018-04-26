@@ -17,11 +17,12 @@ Event coordinators will create and manage events on the web app while the mobile
 - Stack
 	- MERN for web (MongoDB, Express, React, Node.js)
 	- React Native for mobile (iOS & Android)
-- Source Control: git
+- Source Control: git via Github
 - Dependencies (APIs, Data, Etc)
-	- Need user location
+	- Need user location  
+	- Facebook or Google login
 - Hosting/Deployment
-	- Heroku
+	- Heroku or AWS
 
 ## Project Specs
 ### [User Stories](userstories.md)
@@ -34,14 +35,16 @@ Event coordinators will create and manage events on the web app while the mobile
 - No mobile or React Native experience
 
 ## Timeline
-- Spring Quarter - Backend, Database, Web App  
-	- April - Brush up on web dev, learn node, express, mongo
+- Spring Quarter 2018 - Backend, Database, Web App
+	- April - Brush up on web dev, learn node, express, mongodb
 	- May - Build backend and web frontend 
-- Fall Quarter - Mobile App (React Native)
+- Fall Quarter 2018 - Mobile App (React Native)
 	- October - Learn React & React Native, Build first version  
 	- Novemember - Connect to backend, improve user interface
 	- December - Clean up UI, improve UX, & testing
 
 ## Progress
-- Week 3 - 4/18-4/25: Agile & HTML, CSS, JS
-- Week 4 - 4/25-5/03 : Node.js & Express
+- **Sprint 1 (4/18-4/25)**
+	- Agile & HTML, CSS, JS
+- **Spring 2 (4/25-5/03)**
+	- Node.js & Express
