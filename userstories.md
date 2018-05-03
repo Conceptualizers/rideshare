@@ -1,6 +1,5 @@
 # User Stories
 ## General User
-- As a user, I want to be able to choose whether I am a driver or a rider for each event  
 - As a user, I want to create an account so that I can sign up for events.  
 
 ## Driver
@@ -8,6 +7,7 @@ A driver is a user with a car.
 
 - As a driver, I want to set my pickup location that is both convenient for driver and rider(s).
 - As a driver, I want to know when all of my riders have gathered so that I can pick them up really quickly and not have to park.
+- As a driver, I want to be able to choose whether I am a driver or a rider for each event  
 - As a driver, I want to know where people want to be dropped off at (accommodating off-campus students). 
 - As a driver, I want to be able to call my riders (with their phone number) in case they don’t show up.
 - As a driver, I want to be able to remove a rider from my roster if they happen to cancel.
