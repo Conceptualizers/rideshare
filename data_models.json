@@ -1,0 +1,89 @@
+// Organizations
+{
+  "name": "Triton Organization",
+  "admin": 1,
+  "users": [
+    123, 332
+  ]
+}
+
+// Admin Users
+{
+  "user_id": 1,
+  "email": "email@ucsd.edu"
+}
+
+//--Regular Users--//
+
+// Rider only
+{
+  "user_id": 123,
+  "first name": "John",
+  "last name": "Doe",
+  "driver": null,
+  "phone number": 1234567890,
+  "home location": "Muir",
+  "Pick up Preferences": ["PC Loop"]
+}
+
+// Driver
+{
+  "user_id": 332,
+  "first name": "Jane",
+  "last name": "Godo",
+  "driver": 1220,
+  "phone number": 0123456789,
+  "home location": "Muir",
+  "Pick up Preferences": ["PC Loop"]
+}
+
+{
+  "driver_id": 1220,
+  "vehicle_id": 10000,
+  "Driver's Pick up Preferences": ["Warren"]
+}
+
+// Vehicles
+{
+  "vehicle_id": 10000,
+  "color": "black",
+  "brand": "Honda",
+  "model": "Accord",
+  "Type": "sedan",
+  "Number of Seats": 4,
+}
+
+// Events
+{
+  "name": "Event name",
+  "address line 1": "Potato chip rock",
+  "address line 2": "",
+  "city": "San Diego",
+  "state": "CA",
+  "zipcode": 92044,
+  "date": "Tue Mar 4 2013 07:00:00",
+  "description": "Hiking potato chip rock. Food afterwards",
+  "photo": null,
+  "attendees": [123, 332],
+  "rides": [
+    {
+      "driver": 1220,
+      "riders": 123
+    }
+  ]
+}
+
+
+// Off campus
+{
+  "off_id": 8785,
+  "name": "Costa Verde",
+  "address": "87 Costa Verde Rd"
+}
+
+// On campus Pickup locations
+{
+  "on_id": 4,
+  "name": "Warren",
+  "description": "Warren bus stop"
+}

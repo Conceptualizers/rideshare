@@ -27,7 +27,7 @@ Event coordinators will create and manage events on the web app while the mobile
 ## Project Specs
 ### [User Stories](userstories.md)
 ### [Mockups](mockups.md)
-### [Data Models](models.md)
+### [Data Models](data_models.json)
 
 ## Challenges
 - Lots to learn - node, mongodb, React Native
