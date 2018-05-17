@@ -1,4 +1,4 @@
-// Organizations
+// Organizations *******
 {
   "name": "Triton Organization",
   "admin": 1,
@@ -7,7 +7,7 @@
   ]
 }
 
-// Admin Users
+// Admin Users ********
 {
   "user_id": 1,
   "email": "email@ucsd.edu"
