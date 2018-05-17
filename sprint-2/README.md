@@ -2,7 +2,7 @@
 
 Create REST APIs for our data models - Events, Orgs, Admins, and Vehicles  
 
-The tutorials from [training sprint 5](https://github.com/TeamSublois/TSE-Training/tree/master/sprint-4) will be very helpful.
+The tutorials from [training sprint 4](https://github.com/TeamSublois/TSE-Training/tree/master/sprint-4) will be very helpful.
 
 You will need to create a data schema file (`Event.js, Orgs.js`, etc) and a controller file (`EventController.js`). Use the mock data in [data_models.json](../data_models.json) as a reference.
 
