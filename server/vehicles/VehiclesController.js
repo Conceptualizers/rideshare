@@ -16,7 +16,7 @@ router.post('/', function (req, res) {
 			type: req.body.type,
 			number_of_seats: req.body.number_of_seats
         }, 
-        function (err, user) {
+        function (err, vehicle) {
             if (err) return res.status(500).send("There was a problem adding the information to the database.");
             res.status(200).send(vehicle);
         });
@@ -32,7 +32,7 @@ router.get('/', function (req, res) {
 
 // GETS A SINGLE VEHICLE FROM THE DATABASE
 router.get('/:id', function (req, res) {
-    Vehicles.findById(req.params.id, function (err, vehicles) {
+    Vehicles.findById(req.params.id, function (err, vehicle) {
         if (err) return res.status(500).send("There was a problem finding the vehicle.");
         if (!vehicle) return res.status(404).send("No vehicle found.");
         res.status(200).send(vehicle);
