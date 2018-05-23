@@ -4,6 +4,6 @@ var OrgSchema = new mongoose.Schema({
   admin: Number,
   users: [String]
 });
-mongoose.model('Org', UserSchema);
+mongoose.model('Org', OrgSchema);
 
 module.exports = mongoose.model('Org');
