@@ -26,6 +26,7 @@ Event coordinators will create and manage events on the web app while the mobile
 	- Heroku or AWS
 
 ## Project Specs
+### [DevPlan](DevPlan.md)
 ### [User Stories](userstories.md)
 ### [Mockups](mockups.md)
 ### [Data Models](data_models.json)
@@ -33,18 +34,6 @@ Event coordinators will create and manage events on the web app while the mobile
 ## Challenges
 - Minimal web dev experience
 - No mobile or React Native experience
-
-## Timeline
-- Spring Quarter 2018 - Backend, Database, Web App
-	- April - Brush up on web dev, learn node, express
-	- May - Learn MongoDB, React Native, Build backend and mobile app
-	- June - Connect to backend, improve user interface
-
-## Progress
-- **Sprint 1 (4/18-4/25)**
-	- Agile & HTML, CSS, JS
-- **Sprint 2 (4/25-5/03)**
-	- Node.js & Express
-- **Sprint 3 (5/3-5/10)**
-	- Templating & MongoDB
 	
+## Timeline
+- See [DevPlan](DevPlan.md) for updated timeline
