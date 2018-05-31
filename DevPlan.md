@@ -26,6 +26,7 @@ If two weeks, the first week can be used to build the UI, the second week to imp
 - User Story **E5** - Driver leaderboard
 - User Story **E1** - Event notifications
 - User Story **E6** - Sync FB events 
+    + [FB event API](https://developers.facebook.com/docs/graph-api/reference/event/attending)
 
 ## Sprint 5
 - UI/UX clean up
