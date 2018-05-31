@@ -49,8 +49,8 @@
   "color": "black",
   "brand": "Honda",
   "model": "Accord",
-  "Type": "sedan",
-  "Number of Seats": 4,
+  "type": "sedan",
+  "number_of_seats": 4,
 }
 
 // Events
